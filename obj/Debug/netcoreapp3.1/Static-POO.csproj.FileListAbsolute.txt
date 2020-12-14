@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\bin\Debug\netcoreapp3.1\Static-POO.exe
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\bin\Debug\netcoreapp3.1\Static-POO.deps.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\bin\Debug\netcoreapp3.1\Static-POO.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\bin\Debug\netcoreapp3.1\Static-POO.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\bin\Debug\netcoreapp3.1\Static-POO.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\bin\Debug\netcoreapp3.1\Static-POO.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\obj\Debug\netcoreapp3.1\Static-POO.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\obj\Debug\netcoreapp3.1\Static-POO.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\obj\Debug\netcoreapp3.1\Static-POO.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\obj\Debug\netcoreapp3.1\Static-POO.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\obj\Debug\netcoreapp3.1\Static-POO.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\obj\Debug\netcoreapp3.1\Static-POO.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Static POO\Static-POO\obj\Debug\netcoreapp3.1\Static-POO.genruntimeconfig.cache
